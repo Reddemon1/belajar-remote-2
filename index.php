@@ -11,6 +11,10 @@
 <body>
     <h1>Hello World</h1>
     <p>Halo gengs</p>
+    <ul>
+        <li>Rio</li>
+        <li>Agus</li>
+    </ul>
 </body>
 
 </html>
